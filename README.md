@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">These are my Other Projects<br>⋆ ---––——––------––——––--- ⋆</h2>
+<h2 align="left">These are my Other Projects<br> ---––——––------––——––--- </h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 align="left">These are my Certificates<br>⋆ ---––——––------––——––--- ⋆</h2>
+<h2 align="left">These are my Certificates<br> ---––——––------––——––--- </h2>
 
 ###
 
