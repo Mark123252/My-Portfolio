@@ -1,4 +1,6 @@
- ![DSC03234](https://github.com/user-attachments/assets/f078018d-17e1-43de-a74f-e5054ae06bd2)
+![FB_IMG_1600088995205-removebg-preview (1)](https://github.com/user-attachments/assets/d44b8ceb-41b3-4a7a-a121-e4b55b6a7d9d)
+
+###
 
 <h1 align="left">HI!! :):)</h1>
 
@@ -8,7 +10,7 @@
 
 ###
 
-<h2 align="left">ABOUT ME </h2>
+<h2 align="left">About Me </h2>
 
 ###
 
@@ -16,7 +18,7 @@
 
 ###
 
-<h2 align="left">WHAT I LIKE  (⸝⸝´꒳`⸝⸝)</h2>
+<h2 align="left">Things I Like To Do</h2>
 
 ###
 
