@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+ ![DSC03234](https://github.com/user-attachments/assets/f078018d-17e1-43de-a74f-e5054ae06bd2)
+
 <h1 align="left">HI!! :):)</h1>
 
 ###
