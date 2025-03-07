@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Steven Mark B. Ontanillas, a Computer Science student with a passion for exploring new technologies and enhancing my skills. I'm eager to learn more about software development, data analysis, and artificial intelligence. I thrive in collaborative environments and enjoy tackling complex problems through logical thinking and creativity. My goal is to continuously expand my knowledge and contribute effectively to projects that make a difference.</p>
+<p align="left"> A Computer Science student with a passion for exploring new technologies and enhancing my skills. I'm eager to learn more about software development, data analysis, and artificial intelligence. I thrive in collaborative environments and enjoy tackling complex problems through logical thinking and creativity. My goal is to continuously expand my knowledge and contribute effectively to projects that make a difference.</p>
 
 ###
 
